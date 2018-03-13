@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1460719379 source:e:\university\94 1 - 2\data structure\studentcourse\main.cpp
+	<iostream>
+	<malloc.h>
+	<cstdlib>
+	<conio.h>
+	"StudentCourse.h"
+
+1462220730 source:e:\university\94 1 - 2\data structure\studentcourse\studentcourse.cpp
+	<iostream>
+	<malloc.h>
+	"StudentCourse.h"
+
+1460726353 e:\university\94 1 - 2\data structure\studentcourse\studentcourse.h
+	<iostream>
+

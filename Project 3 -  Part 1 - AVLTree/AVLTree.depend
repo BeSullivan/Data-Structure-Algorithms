@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1466162095 source:e:\university\94 1 - 2\data structure\avltree\bst.cpp
+	<iostream>
+	<malloc.h>
+	"BST.h"
+
+1466162103 e:\university\94 1 - 2\data structure\avltree\bst.h
+	<iostream>
+	<cmath>
+	<string>
+
+1466162461 source:e:\university\94 1 - 2\data structure\avltree\main.cpp
+	<iostream>
+	"BST.h"
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1466162095 source:e:\university\94 1 - 2\data structure\avltree -project3 - part 1\bst.cpp
+	<iostream>
+	<malloc.h>
+	"BST.h"
+
+1466162103 e:\university\94 1 - 2\data structure\avltree -project3 - part 1\bst.h
+	<iostream>
+	<cmath>
+	<string>
+
+1466163493 source:e:\university\94 1 - 2\data structure\avltree -project3 - part 1\main.cpp
+	<iostream>
+	"BST.h"
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
